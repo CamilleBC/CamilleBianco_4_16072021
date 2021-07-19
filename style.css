@@ -44,6 +44,10 @@ a:hover {
     padding-right: 0;
 }
 
+#bloc-5-cta {
+    z-index: 1000;
+}
+
 .bloc-lg {
     padding: 100px 50px;
 }
@@ -996,6 +1000,7 @@ h4 {
     .bloc-xl,
     .bloc-lg {
         padding: 40px 0;
+        z-index: 4000;
     }
     .bloc-sm,
     .bloc-md {
