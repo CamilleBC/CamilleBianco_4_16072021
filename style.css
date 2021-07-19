@@ -105,7 +105,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: rgba(255, 255, 255);
 }
 
 .d-bloc button:hover {
@@ -652,11 +652,14 @@ h5,
 h6,
 p,
 label,
-.btn,
-a {
+.btn {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
+}
+
+a{
+    color: white;
 }
 
 .container {
@@ -682,7 +685,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -776,13 +779,17 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #DC3A00;
 }
+
 
 .tc-white {
     color:  rgb(237, 240, 33)!important;
 }
 
+#colorTitreFormulaire{
+    color: white!important;
+}
 
 .btn-atomic-tangerine {
     background: #F3976C;
@@ -843,6 +850,15 @@ h4 {
     font-weight: normal;
     font-style: normal;
 }
+
+.row {
+    padding-top: 2rem;
+}
+
+.souligner{
+    text-decoration: underline;
+}
+
 
 @media (max-width: 1024px) {
     .bloc {
