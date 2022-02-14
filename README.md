@@ -1,4 +1,4 @@
-# Projet 2 Openclassrooms : Optimiser un site web déjà existant avec l’analyse et l’amélioration du SEO et de l’accessibilité.
+# Projet 4 Openclassrooms : Optimiser un site web déjà existant avec l’analyse et l’amélioration du SEO et de l’accessibilité.
 
 **Objectif** : Analyser l'état actuel du SEO et de l'accéssibilité du site fourni et l'améliorer.
 
